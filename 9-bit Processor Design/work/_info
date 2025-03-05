@@ -1,0 +1,334 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 1 sub v2
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1722543053
+!i10b 1
+!s100 UX2_^KmVbZh>2UQfU:bl82
+IY<VO8:nRb=YcQ:UmPGX2_1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission
+w1722464402
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALU.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALU.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1722543053.000000
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALU.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@l@u
+vALUD1MUX
+R0
+R1
+!i10b 1
+!s100 82CQl_U>ikoOFPoa^lMmZ1
+I^ikAA3j5jLRRAfb0AE>6@2
+R2
+!s105 ALUD1MUX_sv_unit
+S1
+R3
+w1722268953
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD1MUX.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD1MUX.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD1MUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD1MUX.sv|
+!i113 1
+R6
+R7
+n@a@l@u@d1@m@u@x
+vALUD2MUX
+R0
+Z8 !s110 1722543054
+!i10b 1
+!s100 WPo]0@W4Xc9UmE@SKD?]h2
+I^ZjQZgEJ7nSRQX8U2KNIU1
+R2
+!s105 ALUD2MUX_sv_unit
+S1
+R3
+w1722269410
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD2MUX.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD2MUX.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD2MUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ALUD2MUX.sv|
+!i113 1
+R6
+R7
+n@a@l@u@d2@m@u@x
+vCtrl
+R0
+R8
+!i10b 1
+!s100 _:3An^G1>da807j6B2DmU3
+IVZA5<k?E1^]]2<izj52mJ2
+R2
+!s105 Ctrl_sv_unit
+S1
+R3
+w1722459232
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/Ctrl.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/Ctrl.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1722543054.000000
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/Ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/Ctrl.sv|
+!i113 1
+R6
+R7
+n@ctrl
+vDMem
+R0
+R8
+!i10b 1
+!s100 n63G[4Yhh7]6B7ZhW@Q;W1
+I7FmjW54eACO]al^`@B20j1
+R2
+!s105 DMem_sv_unit
+S1
+R3
+w1722431969
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DMem.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DMem.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DMem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DMem.sv|
+!i113 1
+R6
+R7
+n@d@mem
+vDUT
+R0
+R8
+!i10b 1
+!s100 D?zc:YJKgjL4_CE;kVbZ;3
+Ijc>N7>eTUB0NVNLUNZao<2
+R2
+!s105 DUT_sv_unit
+S1
+R3
+w1722520319
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DUT.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DUT.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DUT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/DUT.sv|
+!i113 1
+R6
+R7
+n@d@u@t
+vFlagsReg
+R0
+R8
+!i10b 1
+!s100 HdJKiG;cbC>KUQ@db4FfV3
+IJ1TBj9VDP`A<63^8IeS?90
+R2
+!s105 FlagsReg_sv_unit
+S1
+R3
+w1722450756
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/FlagsReg.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/FlagsReg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/FlagsReg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/FlagsReg.sv|
+!i113 1
+R6
+R7
+n@flags@reg
+vInstROM
+R0
+Z10 !s110 1722543055
+!i10b 1
+!s100 F9l<DB?L>nbdbKn@O@jY10
+IoKR02@kNI9e3`[oSX3ZBV1
+R2
+!s105 InstROM_sv_unit
+S1
+R3
+w1722433094
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/InstROM.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/InstROM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/InstROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/InstROM.sv|
+!i113 1
+R6
+R7
+n@inst@r@o@m
+vJLUT
+R0
+R10
+!i10b 1
+!s100 i`OjUehi@F]o^NmimRbO53
+I5dI[9U6<4575lgf9L@TRg1
+R2
+!s105 JLUT_sv_unit
+S1
+R3
+w1722542101
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/JLUT.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/JLUT.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1722543055.000000
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/JLUT.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/JLUT.sv|
+!i113 1
+R6
+R7
+n@j@l@u@t
+vMemToRegMUX
+R0
+R10
+!i10b 1
+!s100 bOEZmmebU01VIZdGiZXhb2
+IN@gS_9L4^4<19LTYJGL6;1
+R2
+!s105 MemToRegMUX_sv_unit
+S1
+R3
+w1722245997
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/MemToRegMUX.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/MemToRegMUX.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/MemToRegMUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/MemToRegMUX.sv|
+!i113 1
+R6
+R7
+n@mem@to@reg@m@u@x
+vProgCtr
+R0
+R10
+!i10b 1
+!s100 T4NS@0_=UiJ=hS0IdJ;Bl3
+I1LL>2F]^bQX<U]>UUUgl[2
+R2
+!s105 ProgCtr_sv_unit
+S1
+R3
+w1722522270
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ProgCtr.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ProgCtr.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ProgCtr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/ProgCtr.sv|
+!i113 1
+R6
+R7
+n@prog@ctr
+vRegFile
+R0
+R10
+!i10b 1
+!s100 LUR4i:GZ]8:13^WcU]BQI1
+IHUCKfYAzOaOf:6fG4=iAE3
+R2
+!s105 RegFile_sv_unit
+S1
+R3
+w1722451636
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/RegFile.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/RegFile.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/RegFile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/RegFile.sv|
+!i113 1
+R6
+R7
+n@reg@file
+vtest_bench
+R0
+R10
+!i10b 1
+!s100 gXQCUQ]8gI<PB5XN]A:l70
+IoiJRJ9nTi]1j389RZFo;B1
+R2
+!s105 test_bench2_new_sv_unit
+S1
+R3
+w1722538106
+8C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/test_bench2_new.sv
+FC:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/test_bench2_new.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/test_bench2_new.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/aarav/OneDrive/Documents/CSE 141L code/Program 2 submission/test_bench2_new.sv|
+!i113 1
+R6
+R7
